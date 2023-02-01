@@ -4,7 +4,7 @@ Projects that I made .
 ![300813558_722612169378527_6374248805482229633_n](https://user-images.githubusercontent.com/115597382/216137290-91c13bff-7e4c-4471-8068-34a6b49c4f69.jpg)
 ## Things needed :-
 Arduino UNO-
-TT Gear Motor #-
+TT Gear Motor -
 65MM Wheels for TT Motors-
 HC-05-
 18650 Battery-
